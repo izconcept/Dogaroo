@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    
+    <title>Find a Pet</title>
+    
+    <link rel="stylesheet" type="text/css" href="theme.css">
+    
+</head>
+    
+    
+<body>
+    
+    <div id="header">
+    
+        <div id="headLink"><a href="index.html"><img src="dog.png" id="dog"/>Dogaroo</a></div>
+    
+    </div>
+    
+    <div id="mainBody">
+    
+    <div id="sideMenu">
+    
+        <ul>
+            
+            <a href="index.html"><li class="menuItem">Home Page</li></a>
+            <a href="availablePets.html"><li class="menuItem">Browse Available Pets</li></a>
+            <a href="findAPet.html"><li class="menuItem" style="background-color:#69C26A;">Find a dog/cat</li></a>
+            <a href="dogCare.html"><li class="menuItem">Dog Care</li></a>
+            <a href="catCare.html"><li class="menuItem">Cat Care</li></a>
+            <a href="petGiveaway.html"><li class="menuItem">Have a Pet to Give Away?</li></a>
+            <a href="contact.html"><li class="menuItem">Contact us</li></a>
+        
+        </ul>
+    
+    </div>
+    
+    <div id="contentArea">
+        
+        <div class="topBar">
+        
+            <a href="findAPet.html"><div class="topOption" style="background-color:#7A54E3;"><p class="topMenuItem">DOG</p></div></a>
+            
+            <a href="findCat.html"><div class="topOption"><p class="topMenuItem">CAT</p></div></a>
+        
+        </div>
+
+        
+    
+    </div>
+    
+        
+    </div>
+    
+    <div id ="footer">
+    
+        <p>Kevin Zhang | Concordia University | 7141 Rue Sherbrooke O, Montreal, QC, H9B 1R6 | 1974 | Limited</p>
+    
+    </div>
+    
+    
+</body>
+</html>

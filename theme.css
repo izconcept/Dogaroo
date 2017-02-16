@@ -1,0 +1,213 @@
+a {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    color:black;
+}
+
+* {
+    margin:0;
+    padding: 0;
+}
+
+.symbol {
+    font-family: Helvetica;
+    font-size: 0.8em;
+}
+p {
+    padding-left:5px;
+}
+
+form {
+    font-family: Helvetica;
+    font-size:0.95em
+}
+
+.strongText {
+    font-family: Impact;
+    color:black;
+}
+
+.pageTitle {
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+#headLink {
+    padding-left: 5px;
+    padding-top: 5px;
+    width:130px;
+    font-family: cursive;
+}
+
+#header {
+    background-color: #628F9E;
+    width: 100%;
+    height:67px;
+}
+
+#dog {
+    height:55px;
+}
+
+#mainBody {
+    max-width: 720px;
+    margin: auto;
+}
+
+#sideMenu {
+    width: 27%;
+    height:504px;
+    background-color: #86B5C4;
+    font-size: 0.75em;
+    float: left;
+}
+
+li:hover {
+    background-color: #5C5C5C;
+    color:white;
+}
+
+.menuItem {
+    padding-top: 30px;
+    padding-left: 5px;
+    height: 41px;
+    font-family:sans-serif;
+    border: 1px solid #5C5C5C;
+    border-top: 0;
+    list-style: none;
+}
+
+.currentPage {
+    background-color: #7DDEFF;
+}
+
+
+.subtitle {
+    padding-left: 5px;
+    font-size: 1.15em;
+    font-family: Helvetica;
+}
+
+.para1 {
+    margin-bottom: 12px;
+    font-family: Helvetica;
+    font-size: 0.92em;
+}
+
+#contentArea {
+    width: 73%;
+    float: right;
+    clear: none;
+    min-height: 504px;
+    background-color: #EBEBEB;
+}
+
+.pet {
+    width: 100%;
+    height: 174px;
+}
+
+.petpic {
+    height: 140px;
+    width: 160px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.petdesc {
+    float: right;
+    width: 325px;
+    height: 130px;
+    margin: 10px;
+}
+
+.interest {
+    margin-left: 10px;
+}
+
+
+#footer {
+    width:100%;
+    height: 50px;
+    background-color: #BFBFBF;
+    clear:both;
+    align-self: 
+}
+
+#privacy {
+    position: relative;
+    top:-21px;
+}
+
+#privacy:hover {
+    color:white;
+}
+
+#info  {
+    position: relative;
+    top:-5px;
+}
+
+#footer p {
+    text-align: center;
+    font-family: Helvetica;
+    color: #454545;
+    font-size: 0.6em;
+    padding-top: 20px;
+    padding-left:0;
+}
+
+.topBar {
+    width: 100%;
+    height:50px;
+    background-color: #BFBFBF;
+}
+
+.topOption {
+    width: 49.8%;
+    height:48px;
+    background-color: #86B5C4;
+    float: left;
+    border: 1px solid #5C5C5C;
+    border-left: 0;
+}
+
+.topOption:hover {
+    background-color: #5C5C5C;
+    color:white;
+    text-decoration: underline;
+}
+
+.topMenuItem {
+    font-family:Helvetica;
+    font-size: 1.5em;
+    padding-top: 5px;
+    padding-left: 38%;
+}
+
+fieldset {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#clock {
+    float:right;
+    margin: 23px 23px 0 0;
+    padding:0;
+    font-family: monospace;
+}
+
+.red {
+    color: red;
+}
+
+#registerLink {
+    text-decoration: underline;
+    color: blue;
+}

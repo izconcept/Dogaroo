@@ -1,0 +1,17 @@
+1:izconcept:dog:LabRetriever:pup:female:Kevin:Zhang:swag@gmail.com:Dog Friendly, :nice pet
+2:izconcept:dog:LabRetriever:pup:female:kevin:zhang:dawdsad@das.ca:Dog Friendly, Cat Friendly, Child Friendly :nice
+3:izconcept:dog:LabRetriever:pup:female:John:Smith:JT@JT.ca:Dog Friendly, Child Friendly :Chillest dog ever bro
+4:kevinzhang:dog:Pug:Young:male:lit:games:swag@on.deck:Child Friendly :Smokes the dankest memes
+5:kevinzhang:dog:Britshort:Adult:male:judy:dubela:judy@google.ca:Cat Friendly, Child Friendly :Lovely little fella
+6:kevinzhang:dog:Poodle:Young:female:sam:belanger:sambee@nbn.com::Playful
+7:kevinzhang:dog:Beagle:pup:female:isabella:tamilia:isatam@hotmai.com:Dog Friendly, Cat Friendly, Child Friendly :Please give him a good home
+8:izconcept:cat:Perisan:pup:female:john:cena:cena@john.com:Dog Friendly, Child Friendly :cuddles
+9:izconcept:cat:ScottishFold:pup:female:cool:cat:coolcat@c.ca:Dog Friendly, Cat Friendly, Child Friendly :Cool cat
+10:izconcept:cat:Himalayan:pup:male:sir:scoots:scooty@scooter.ca:Child Friendly :Fluffy
+11:izconcept:cat:Britshort:Adult:female:sydney:cros:syd@google.ca:Cat Friendly, :purrs
+12:izconcept:dog:GoldRet:Young:male:this:is:not@test.ca:Dog Friendly, Child Friendly :active
+13:izconcept:dog:Dob:pup:male:everythings:gonna:be@lright.com:Dog Friendly, Cat Friendly, :911
+14:izconcept:cat:Sphynx:pup:female:decked:out:24inch@rims.ca:Dog Friendly, Child Friendly :fun to be around
+15:izconcept:cat:Abyss:pup:female:john:smith:k@k.ca:Cat Friendly, Child Friendly :
+16:izconcept:cat:Ragdoll:pup:male:John :Snow:snow@danorf.com:Dog Friendly, Cat Friendly, Child Friendly :lovable little cat.
+17:izconcept:cat:Sieamese:pup:male:dany:targ:targ@asoiaf.com:Dog Friendly, Cat Friendly, Child Friendly :great cat
