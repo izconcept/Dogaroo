@@ -1,2 +1,4 @@
 # Dogaroo
-One of the first websites I built
+Pet adoption website. 
+
+Login, view, add pets.
